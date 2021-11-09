@@ -1,6 +1,8 @@
 # Museum Of Candy
-Simple webpage using front-end tools (HTML, CSS)
 
+<p align="center">
+Simple webpage using front-end tools (HTML, CSS)
+</p>
 
 <p align="center">
 <a href="https://github.com/anupam215769/museum-of-candy/graphs/contributors"><img src="https://img.shields.io/github/contributors/anupam215769/museum-of-candy?color=brightgreen"></a>
