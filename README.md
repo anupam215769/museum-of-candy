@@ -1,7 +1,10 @@
 # Museum Of Candy
 
 <p align="center">
-Simple webpage using front-end tools (HTML, CSS)
+A Beautiful & Appealing Webpage Using Core Frontend Technologies;
+</p>
+<p align="center">
+HTML (the Hypertext Markup Language) and CSS (Cascading Style Sheets)
 </p>
 
 <p align="center">
