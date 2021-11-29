@@ -35,7 +35,7 @@ HTML (the Hypertext Markup Language) and CSS (Cascading Style Sheets)
 
 [Anupam Verma](https://github.com/anupam215769)
 
-<a href="https://github.com/smaranjitghose/awesome-portfolio-websites/graphs/contributors">
+<a href="https://github.com/anupam215769/museum-of-candy/graphs/contributors">
   <img src="https://contributors-img.web.app/image?repo=anupam215769/museum-of-candy" />
 </a>
 
