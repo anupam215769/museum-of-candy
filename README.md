@@ -4,7 +4,7 @@
 A Beautiful & Appealing Webpage Using Core Frontend Technologies;
 </p>
 <p align="center">
-HTML (the Hypertext Markup Language) and CSS (Cascading Style Sheets)
+HTML, CSS, Bootstrap, JavaScript/JQuery
 </p>
 
 <p align="center">
