@@ -4,7 +4,7 @@
 A Beautiful & Appealing Webpage Using Core Frontend Technologies;
 </p>
 <p align="center">
-HTML, CSS, Bootstrap, JavaScript/JQuery
+HTML, CSS, Bootstrap
 </p>
 
 <p align="center">
