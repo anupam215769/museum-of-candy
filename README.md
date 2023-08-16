@@ -29,14 +29,4 @@ HTML, CSS, Bootstrap
 
 ### [Museum Of Candy](https://anupam215769.github.io/museum-of-candy/)
 
-## Credit
 
-**Designed & Scripted By**
-
-[Anupam Verma](https://github.com/anupam215769)
-
-<a href="https://github.com/anupam215769/museum-of-candy/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=anupam215769/museum-of-candy" />
-</a>
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anupam-verma-383855223/)
